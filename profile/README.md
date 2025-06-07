@@ -8,6 +8,6 @@
 
 ### VigilantView Dispatch: A modern Computer Aided Dispatch (CAD) system that enhances situational awareness and streamlines operations. VigilantView Dispatch helps dispatchers efficiently manage incidents, allocate resources, and improve communication, supported by intelligent data visualization and relevant threat intelligence.
 
-### CallSentry Your AI Receptionist :telephone_receiver: :robot: : CallSentry is an interactive AI-powered receptionist application designed to screen calls, take messages, and manage call flows based on your availability. Built with a modern tech stack, it demonstrates how Generative AI can be integrated into practical communication tools.
+### CallSentry - Your AI Receptionist :telephone_receiver: :robot: : A interactive AI-powered receptionist application designed to screen calls, take messages, and manage call flows based on your availability. Built with a modern tech stack, it demonstrates how Generative AI can be integrated into practical communication tools.
 
 #### Ctrl-Alt-Skunkworks is committed to providing practical, powerful, and forward-thinking security solutions, helping you navigate the intricacies of modern security with assurance.
