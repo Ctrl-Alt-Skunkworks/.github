@@ -10,4 +10,6 @@
 
 ### CallSentry - Your AI Receptionist :telephone_receiver: :robot: : A interactive AI-powered receptionist application designed to screen calls, take messages, and manage call flows based on your availability. Built with a modern tech stack, it demonstrates how Generative AI can be integrated into practical communication tools.
 
+### Support Desk Lite:## A modern, AI-enhanced support ticket management system built with Next.js, React, ShadCN UI, Tailwind CSS, and Genkit. This application provides features for incident reporting, service requests, a dashboard overview, calendar integration, canned responses, and metrics tracking. Designed for efficient support operations.
+
 #### Ctrl-Alt-Skunkworks is committed to providing practical, powerful, and forward-thinking security solutions, helping you navigate the intricacies of modern security with assurance.
