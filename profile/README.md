@@ -5,8 +5,8 @@
 ### KeyGuardian:
 Enterprise-grade door access control system, designed to deliver secure and reliable management of entry to your vital resources.
 
-### KeyGuardian Lite:
-Our door access control system for the home, designed to deliver secure and reliable management of up to 8 entry points to your residence, workhop, mancave or all the above.
+### GuardianAngel VIP Security Management:
+GuardianAngel is a modern, web-based application designed for comprehensive security and VIP protection management. It provides real-time monitoring, secure communication channels, customizable panic responses, and diligent security logging to ensure the safety of protected individuals and streamline security operations.
 
 ### VigilantView Dispatch:
 A modern Computer Aided Dispatch (CAD) system that enhances situational awareness and streamlines operations. VigilantView Dispatch helps dispatchers efficiently manage incidents, allocate resources, and improve communication, supported by intelligent data visualization and relevant threat intelligence.
